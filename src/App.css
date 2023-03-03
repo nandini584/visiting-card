@@ -1,0 +1,14 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+ border-radius: 10px;
+}
+.container{
+  filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+  width: 317px;
+  height: 720px;
+  background: #272831;
+  border-radius: 10px;
+}
